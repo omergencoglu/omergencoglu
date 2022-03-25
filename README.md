@@ -44,7 +44,7 @@
 ## 🤝 Support Me:
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="60" width="200"></a>
+<a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="60"></a>
 </div>
 
 ## 📊 My GitHub Data:
