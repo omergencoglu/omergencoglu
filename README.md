@@ -1,4 +1,4 @@
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omer Gencoglu</h1>
+<h1 align="center">Hey<img src="/Hi.gif" width="30px"> I'm Omer Gencoglu</h1>
 
  <br/>
 
@@ -54,5 +54,5 @@
 ## 🤝 Support Me;
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="60"></a>
+<a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="50"></a>
 </div>
