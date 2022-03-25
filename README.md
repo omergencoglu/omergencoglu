@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="/giphy.gif" height="290px" align="right" />
+<img  src="/giphy.gif" height="200px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://omergencoglu.dev)**
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omergencoglu&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omergencoglu&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)<br />
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omergencoglu&theme=dracula)
 
 </div>
