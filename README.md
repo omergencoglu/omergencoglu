@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" height="290px" align="right" />
+<img  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://omergencoglu.dev)**
 
@@ -43,10 +43,12 @@
 
 ## 🤝 Support Me:
 
+<div align="center">
 <a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="60" width="200"></a>
+</div>
 
 ## 📊 My GitHub Data:
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omergencoglu&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omergencoglu&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 </div>
