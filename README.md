@@ -6,15 +6,15 @@
 
 <img  src="/giphy.gif" height="200px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://omergencoglu.dev)**
+- 🙋‍♂️ All about me is at **[My Website](https://omergencoglu.dev)**.
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `Next.js`
+- 🌱 I’m currently learning `Next.js`.
 
-- 🙏 I’m looking to collaborate for `Dev Projects`
+- 🙏 I’m looking to collaborate for `Dev Projects`.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Competitive Programming`.
 
 ## 🛠️ Technologies and Tools I use
 
