@@ -1,8 +1,8 @@
-<h1 align="center">Hey<img src="/Hi.gif" width="30px"> I'm Omer Gencoglu</h1>
+<h1 align="center">Hey <img src="/Hi.gif" width="30px"> I'm Omer Gencoglu</h1>
 
  <br/>
 
-## 👨🏻‍💻 About Me;
+## 👨🏻‍💻 About Me
 
 <img  src="/giphy.gif" height="200px" align="right" />
 
@@ -16,7 +16,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-## 🛠️ Technologies and Tools I use;
+## 🛠️ Technologies and Tools I use
 
 <div align="center">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -36,12 +36,12 @@
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </div>
 
-## 🔗 Let's get connected;
+## 🔗 Let's get connected
 
 <div align="center"><a href="https://omergencoglu.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/omergencoglu.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/omergencogludev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/omer-sait-gencoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </div>
 
-## 📊 My GitHub Data;
+## 📊 My GitHub Data
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 </div>
 
-## 🤝 Support Me;
+## 🤝 Support Me
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/omergencoglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="50"></a>
