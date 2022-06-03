@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="/Hi.gif" width="30px"> I'm Omer Gencoglu</h1>
+<h1 align="center">Hi <img src="/Hi.gif" height="32px"> I'm Omer Gencoglu</h1>
 
 <br/>
 
