@@ -31,7 +31,7 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25px"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111729?style=for-the-badge&logo=tailwind-css&logoColor=#63baf4" height="25px"/>
 <img alt="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="25px"/>
@@ -50,7 +50,7 @@
 <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" height="25px"/>
 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2318152E.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#4FCCFE"  height="25px"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"  height="25px"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%233c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#f8a829"  height="25px"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  height="25px"/>
 </div>
 
