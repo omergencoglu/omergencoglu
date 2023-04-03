@@ -8,9 +8,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://omergencoglu.dev)**.
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting`.
 
-- 🌱 I’m currently learning `Next.js`.
+- 🌱 I’m currently learning `TypeScript`.
 
 - 🙏 I’m looking to collaborate for `Dev Projects`.
 
