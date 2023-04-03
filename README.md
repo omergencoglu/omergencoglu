@@ -34,7 +34,7 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111729?style=for-the-badge&logo=tailwind-css&logoColor=#63baf4" height="25px"/>
 <img alt="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="25px"/>
+<img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-262626?style=for-the-badge&logo=greensock&logoColor=#99cb33" height="25px"/>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="25px"/>
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
@@ -46,11 +46,11 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
 
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="25px"/>
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23b64b22?style=for-the-badge&logo=jest&logoColor=white" height="25px"/>
 <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" height="25px"/>
 
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2318152E.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#4FCCFE"  height="25px"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%233c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#f8a829"  height="25px"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%23051731.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#56a7fa"  height="25px"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%232a0501.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#f1a22f"  height="25px"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  height="25px"/>
 </div>
 
