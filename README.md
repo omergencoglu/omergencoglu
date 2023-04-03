@@ -49,7 +49,7 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="25px"/>
 <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" height="25px"/>
 
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%18152E.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#4FCCFE"  height="25px"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2318152E.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#4FCCFE"  height="25px"/>
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"  height="25px"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  height="25px"/>
 </div>
