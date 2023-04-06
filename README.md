@@ -50,8 +50,7 @@
 <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" height="25px"/>
 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%23051731.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#56a7fa"  height="25px"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%232a0501.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#f1a22f"  height="25px"/>
-<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  height="25px"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  height="25px"/>
 </div>
 
 ## 🔗 Let's get connected
